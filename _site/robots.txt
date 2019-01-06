@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://0.0.0.0:8080aseurl/sitemap.xml
+Sitemap: http://0.0.0.0:8080/feeling-responsive/sitemap.xml
