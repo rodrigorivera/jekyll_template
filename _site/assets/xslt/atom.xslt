@@ -157,7 +157,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://0.0.0.0:8080/search/">Search</a></li>
+              <li><a  href="/search/">Search</a></li>
 
             
             
@@ -171,7 +171,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://0.0.0.0:8080/contact/">Contact</a></li>
+              <li><a  href="/contact/">Contact</a></li>
 
             
             
@@ -190,7 +190,7 @@
 
             
             
-              <li><a  href="http://0.0.0.0:8080/">Start</a></li>
+              <li><a  href="/">Start</a></li>
               <li class="divider"></li>
 
             
@@ -205,7 +205,7 @@
 
             
             
-              <li><a  href="http://0.0.0.0:8080/getting-started/">Getting Started</a></li>
+              <li><a  href="/getting-started/">Getting Started</a></li>
               <li class="divider"></li>
 
             
@@ -222,59 +222,59 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://0.0.0.0:8080/design/">Templates</a>
+                <a  href="/design/">Templates</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/grid/">Grid &amp; Colors</a></li>
+                      <li><a  href="/design/grid/">Grid &amp; Colors</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/typography/typography/">Typography</a></li>
+                      <li><a  href="/design/typography/typography/">Typography</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/page/">Page/Post</a></li>
+                      <li><a  href="/design/page/">Page/Post</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
+                      <li><a  href="/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
+                      <li><a  href="/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/page-fullwidth/">Page Full-Width</a></li>
+                      <li><a  href="/design/page-fullwidth/">Page Full-Width</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/blog/">Blog-Page</a></li>
+                      <li><a  href="/blog/">Blog-Page</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/video/">Video</a></li>
+                      <li><a  href="/design/video/">Video</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/gallery/">Gallery</a></li>
+                      <li><a  href="/design/gallery/">Gallery</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/portfolio/">Portfolio</a></li>
+                      <li><a  href="/design/portfolio/">Portfolio</a></li>
                     
                   </ul>
 
@@ -293,44 +293,44 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://0.0.0.0:8080/headers/">Header Styles</a>
+                <a  href="/headers/">Header Styles</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/header-full-width-image/">Header with Full-Width-Image</a></li>
+                      <li><a  href="/design/header-full-width-image/">Header with Full-Width-Image</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/header-image-pattern/">Header with Image and Pattern</a></li>
+                      <li><a  href="/design/header-image-pattern/">Header with Image and Pattern</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/header-image-color/">Header with image and color</a></li>
+                      <li><a  href="/design/header-image-color/">Header with image and color</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/header-logo-only/">Header Only With Logo</a></li>
+                      <li><a  href="/design/header-logo-only/">Header Only With Logo</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/header-with-text/">Header With Text</a></li>
+                      <li><a  href="/design/header-with-text/">Header With Text</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/no-header/">No Header</a></li>
+                      <li><a  href="/design/no-header/">No Header</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/design/no-header-but-image/">No Header but Image</a></li>
+                      <li><a  href="/design/no-header-but-image/">No Header but Image</a></li>
                     
                   </ul>
 
@@ -349,19 +349,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://0.0.0.0:8080/documentation/">Documentation</a>
+                <a  href="/documentation/">Documentation</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/changelog/">Changelog</a></li>
+                      <li><a  href="/changelog/">Changelog</a></li>
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/roadmap/">Roadmap</a></li>
+                      <li><a  href="/roadmap/">Roadmap</a></li>
                     
                   </ul>
 
@@ -380,14 +380,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://0.0.0.0:8080/blog/">Blog</a>
+                <a  href="/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://0.0.0.0:8080/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
