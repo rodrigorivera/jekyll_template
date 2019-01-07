@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="description" content="The Machine Learning Summer School will take place between the 26th of August and 6th of September, 2019 at Skoltech in Moscow, Russia. The MLSS offers an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference. Join us to learn from world-renowned machine learning specialists, network with a diverse and formidable audience, and enjoy Moscow!.&#39;">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -43,11 +43,11 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta property="og:description" content="The Machine Learning Summer School will take place between the 26th of August and 6th of September, 2019 at Skoltech in Moscow, Russia. The MLSS offers an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference. Join us to learn from world-renowned machine learning specialists, network with a diverse and formidable audience, and enjoy Moscow!.&#39;">
 	<meta property="og:url" content="/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Feeling Responsive">
+	<meta property="og:site_name" content="Machine Learning Summer School 2019 - Moscow">
 	
 	<meta property="article:author" content="https://www.facebook.com/phlow.media">
 
@@ -58,7 +58,7 @@
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="twitter:description" content="The Machine Learning Summer School will take place between the 26th of August and 6th of September, 2019 at Skoltech in Moscow, Russia. The MLSS offers an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference. Join us to learn from world-renowned machine learning specialists, network with a diverse and formidable audience, and enjoy Moscow!.&#39;">
 	
 	
 
@@ -104,7 +104,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="" class="icon-tree"> Feeling Responsive</a></h1>
+      <h1 class="show-for-small-only"><a href="" class="icon-tree"> Machine Learning Summer School 2019 - Moscow</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -154,10 +154,16 @@
 
           
           
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
-              <li><a  href="/search/">Search</a></li>
+              <li><a  href="/application/">Application</a></li>
 
             
             
@@ -190,7 +196,7 @@
 
             
             
-              <li><a  href="/">Start</a></li>
+              <li><a  href="/">MLSS2019</a></li>
               <li class="divider"></li>
 
             
@@ -205,7 +211,7 @@
 
             
             
-              <li><a  href="/getting-started/">Getting Started</a></li>
+              <li><a  href="/speakers-topics/">Speakers &amp; Topics</a></li>
               <li class="divider"></li>
 
             
@@ -220,66 +226,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="/design/">Templates</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="/design/grid/">Grid &amp; Colors</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/typography/typography/">Typography</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/page/">Page/Post</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/page-fullwidth/">Page Full-Width</a></li>
-                    
-
-                      
-
-                      <li><a  href="/blog/">Blog-Page</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/video/">Video</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/gallery/">Gallery</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/portfolio/">Portfolio</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="/schedule/">Schedule</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -291,51 +241,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="/headers/">Header Styles</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="/design/header-full-width-image/">Header with Full-Width-Image</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/header-image-pattern/">Header with Image and Pattern</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/header-image-color/">Header with image and color</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/header-logo-only/">Header Only With Logo</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/header-with-text/">Header With Text</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/no-header/">No Header</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/no-header-but-image/">No Header but Image</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="/venue/">Venue</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -347,26 +256,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="/documentation/">Documentation</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="/changelog/">Changelog</a></li>
-                    
-
-                      
-
-                      <li><a  href="/roadmap/">Roadmap</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="/schedule/">Organizers</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -378,21 +271,25 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="/schedule/">Travel</a></li>
               <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="/schedule/">FAQ</a></li>
+              <li class="divider"></li>
+
+            
             
           
         
@@ -418,8 +315,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://0.0.0.0:8080/" title="Feeling Responsive – A Flexible Theme for Jekyll">
-				<img src="/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
+			<a id="logo" href="http://0.0.0.0:8080/" title="Machine Learning Summer School 2019 - Moscow – MLSS2019 - Moscow, Russia">
+				<img src="/assets/img/logo.png" alt="Machine Learning Summer School 2019 - Moscow – MLSS2019 - Moscow, Russia">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -495,7 +392,8 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
+              The Machine Learning Summer School will take place between the 26th of August and 6th of September, 2019 at Skoltech in Moscow, Russia. The MLSS offers an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference. Join us to learn from world-renowned machine learning specialists, network with a diverse and formidable audience, and enjoy Moscow!.'
+
               <a href="/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -599,21 +497,17 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Organized by <a href="http://skoltech.ru">Skoltech</a>, <a href="http://mlss.cc">MLSS</a> and <a href="http://adase.group">ADASE</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="http://github.com/phlow" target="_blank" class="icon-github" title="Code und mehr..."></a></li>
+              <li><a href="http://www.github.com/mlss-skoltech" target="_blank" class="icon-github" title="MLSS GitHub"></a></li>
             
-              <li><a href="http://www.youtube.com/PhlowMedia" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von Phlow auf YouTube"></a></li>
+              <li><a href="http://youtube.com/mlss-skoltech" target="_blank" class="icon-youtube" title="MLSS YouTube"></a></li>
             
-              <li><a href="http://twitter.com/phlow" target="_blank" class="icon-twitter" title="Immer das Neuste von Phlow gibt es auf Twitter"></a></li>
-            
-              <li><a href="http://www.mixcloud.com/phlow/" target="_blank" class="icon-cloud" title="Mixe, was sonst?"></a></li>
-            
-              <li><a href="https://plus.google.com/u/0/+Phlow" target="_blank" class="icon-googleplus" title="YouTube Google+"></a></li>
+              <li><a href="http://twitter.com/mlss-skoltech" target="_blank" class="icon-twitter" title="MLSS Twitter"></a></li>
             
             </ul>
           </section>
