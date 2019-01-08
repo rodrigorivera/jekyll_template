@@ -9,11 +9,18 @@ image:
     caption: Prof. Evgeny Burnaev, Skoltech
 ---
 
-Skoltech was created during 2011 in collaboration with the Massachusetts Institute of Technology (MIT). <br/>
-Today, Skoltech has some 1,000 master’s and PhD students who follow studies in areas ranging from petroleum engineering, 
-energy systems, photonics, quantum materials and data science to materials science and engineering, life science, mathematical and theoretical physics, 
-as well as space and engineering systems. <br/>
-![alt text][logo] Central to the campus are its multi-story laboratories that accommodate lab space, work and teaching areas, as well as the associated offices, 
-encompassing all 12 laboratory buildings with an outer ring (nearly a kilometer in overall length) and two bisecting inner rings. 
+### Fernando Perez Cruz
+#### Swiss Data Science Center
+![Fernando Perez Cruz][perezcruz]
 
-[logo]: {{ site.urlimg }}skoltech_campus-800x433.jpg "Skoltech campus"
+### Evgeny Burnaev
+#### Skoltech
+![Evgeny Burnaev][burnaev]
+
+### Rodrigo Rivera
+#### Skoltech
+![Rodrigo Rivera][rodrigorivera]
+
+[perezcruz]: {{ site.urlimg }}org_perezcruz_321x350.jpg "Fernando Perez Cruz"
+[burnaev]: {{ site.urlimg }}org_burnaev_332x350.jpg "Evgeny Burnaev"
+[rodrigorivera]: {{ site.urlimg }}org_rodrigorivera_313x350.jpg "Rodrigo Rivera"
