@@ -15,15 +15,15 @@
   side: left
   
 - title: Organizers
-  url: "/schedule/"
+  url: "/organizers/"
   side: left
 
 - title: Travel
-  url: "/schedule/"
+  url: "/travel/"
   side: left
   
 - title: FAQ
-  url: "/schedule/"
+  url: "/faq/"
   side: left
 
 - title: "Application"

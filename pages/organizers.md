@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "Venue"
-subheadline: "The Skoltech campus"
-teaser: "Situated in the heart of Moscow’s Skolkovo Innovation Center – the new Skoltech campus is a large, multi-story circular building"
-permalink: "/venue/"
+title: "Organizers"
+subheadline: "Organizing Commitee"
+permalink: "/organizers/"
 header: no
 image:
-    title: skoltech_campus-800x300_2.jpg
-    caption: Skoltech Campus
+    title: organizers_798x396.jpg
+    caption: Prof. Evgeny Burnaev, Skoltech
 ---
 
 Skoltech was created during 2011 in collaboration with the Massachusetts Institute of Technology (MIT). <br/>
