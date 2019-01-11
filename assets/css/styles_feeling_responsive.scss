@@ -5,6 +5,10 @@ sitemap:
 ---
 @charset "utf-8";
 
+@import "lib/normalize";
+@import "lib/fontawesome";
+@import "lib/devicon";
+
 @import "functions.scss";
 @import "01_settings_colors.scss";
 @import "02_settings_typography.scss";
@@ -49,4 +53,5 @@ sitemap:
 @import "11_syntax-highlighting.scss";
 
 @import "00_vars.scss";
+@import "13_animation.scss";
 @import "12_header.scss";
