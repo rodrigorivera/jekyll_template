@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_mlss-skoltech.jpg
+#  image_fullwidth: header_mlss-skoltech.jpg
+  particles: true
 widget1:
   title: "Machine Learning Summer School"
   url: 'http://mlss.cc'
