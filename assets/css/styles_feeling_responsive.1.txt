@@ -58,3 +58,11 @@ sitemap:
 @import "00_vars.scss";
 @import "13_animation.scss";
 @import "12_header.scss";
+
+
+@import 'legacy-components/top-bar';
+@import "legacy-components/buttons";
+@import "legacy-components/forms";
+@import "legacy-components/grid";
+@import "legacy-components/type";
+@import "legacy-components/visibility";
