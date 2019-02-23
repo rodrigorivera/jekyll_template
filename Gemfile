@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem "jekyll", ">= 3.6.3"
 
 group :jekyll_plugins do
+  gem 'github-pages'
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
   gem "jekyll-asciidoc"
